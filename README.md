@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ShadowFokx
+- 👀 webdevelopment
+- 🌱 python
+- 📫 How to reach me https://twitter.com/shadow_fokx
